@@ -1,0 +1,12 @@
+
+
+export const RESET = "RESET";
+export const SET_KEY = "SET_KEY";
+export const SET_CLAIRE_TEXT = 'SET_CLAIRE_TEXT';
+export const CREPT_CESAR = 'CREPT_CESAR';
+export const DECREPT_CESAR = 'DECREPT_CESAR';
+export const CRYPTANALYSE_CESAR = 'CRYPTANALYSE_CESAR';
+export const SHOW_DETAILS_ANALYSE = 'SHOW_DETAILS_ANALYSE';
+
+
+ 

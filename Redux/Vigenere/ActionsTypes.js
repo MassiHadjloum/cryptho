@@ -1,0 +1,13 @@
+
+
+export const RESET = "RESET";
+export const SET_KEY = "SET_KEY";
+export const SET_CLAIRE_TEXT = 'SET_CLAIRE_TEXT';
+export const CREPT_VIGENERE = 'CREPT_VIGENERE';
+export const DECREPT_VIGENERE = 'DECREPT_VIGENERE';
+export const CRYPTANALYSE_VIGENERE = 'CRYPTANALYSE_VIGENERE';
+export const SHOW_DETAILS_ANALYSE = 'SHOW_DETAILS_ANALYSE';
+export const GET_TEXT_BLOC = 'GET_TEXT_BLOC';
+
+
+ 
